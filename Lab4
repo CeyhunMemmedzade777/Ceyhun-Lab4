@@ -1,0 +1,5 @@
+import random
+n = 10
+massiv = [random.randint(0, 25) for _ in range(n)]
+print("Təsadüfi ədədlərdən ibarət massiv:")
+print(massiv)
